@@ -36,7 +36,7 @@ Fees15-25% of enrolled debt$1,000-$2,500 attorney fee
 
 Total cost on $40K$16,000-$28,000 (settlement + fees + tax)$1,400-$2,900
 
-Tax consequences1099-C on forgiven amounts (taxable income)None -- discharge is tax-free
+Tax consequences1099-C on forgiven amounts (taxable income)None - discharge is tax-free
 
 Stops lawsuits?NoYes (automatic stay)
 
@@ -46,7 +46,7 @@ Stops collection calls?NoYes
 
 Debts eliminatedOnly those successfully settledAll qualifying unsecured debt
 
-Guaranteed result?No -- creditor can refuseDischarge is a court order
+Guaranteed result?No - creditor can refuseDischarge is a court order
 
 Legal protectionNoneFederal court jurisdiction
 
@@ -58,7 +58,7 @@ New debt during processPossible (and common)Restricted
 
 Requires income?No (need lump sum savings)No (must pass means test)
 
-Public record?NoYes -- bankruptcy filing is public
+Public record?NoYes - bankruptcy filing is public
 
 The Tax Bomb: Settlement's Hidden Cost
 
@@ -128,7 +128,7 @@ Only about 35% of consumers who enter settlement programs complete them
 
 The average consumer who drops out has been in the program for 12-24 months and paid thousands in fees
 
-Creditors are under no obligation to settle -- they can refuse and sue instead
+Creditors are under no obligation to settle - they can refuse and sue instead
 
 Bankruptcy success rates
 
@@ -136,11 +136,11 @@ Chapter 7: 93%+ receive a discharge (national average from FJC data)
 
 Chapter 13: ~40-50% receive a discharge (lower due to 3-5 year plan duration)
 
-Discharge is a federal court order -- creditors cannot refuse
+Discharge is a federal court order - creditors cannot refuse
 
 Denied discharges are rare and typically involve fraud or procedural failure
 
-Even Chapter 13's ~48% discharge rate is comparable to or better than settlement's ~35% completion rate -- and Chapter 13 provides legal protection, a structured plan, and tax-free discharge throughout the process.
+Even Chapter 13's ~48% discharge rate is comparable to or better than settlement's ~35% completion rate - and Chapter 13 provides legal protection, a structured plan, and tax-free discharge throughout the process.
 
 Credit Impact: The Honest Comparison
 
@@ -150,7 +150,7 @@ Months 1-6: Score drops 100-150+ points as accounts go delinquent (settlement co
 
 Months 6-24: Continued decline as accounts hit collections, charge-off status, potential judgments
 
-Settlement: Each settled account shows "Settled for Less Than Full Amount" -- a negative notation that remains for 7 years
+Settlement: Each settled account shows "Settled for Less Than Full Amount" - a negative notation that remains for 7 years
 
 Unsettled accounts: Still delinquent, still damaging your score
 
@@ -158,7 +158,7 @@ Bankruptcy credit path
 
 Filing: 130-240 point drop (one event, one time)
 
-3-4 months: Discharge -- all qualifying debt eliminated, debt-to-income ratio drops to near zero
+3-4 months: Discharge - all qualifying debt eliminated, debt-to-income ratio drops to near zero
 
 6-12 months: Score begins recovering. Secured credit card, authorized user strategies
 
@@ -174,7 +174,7 @@ Debt settlement is a $10+ billion industry. Here is how the money flows:
 
 You stop paying creditors and instead deposit money into a special-purpose savings account
 
-The settlement company collects fees -- typically 15-25% of your total enrolled debt -- from that account before settling any debts
+The settlement company collects fees - typically 15-25% of your total enrolled debt - from that account before settling any debts
 
 After enough money accumulates (often 12-18 months), the company attempts to negotiate settlements with your creditors
 
@@ -182,7 +182,7 @@ If a creditor settles, the company pays from your account and takes their fee
 
 If a creditor refuses, your money sits in the account (minus fees already taken) and the debt remains
 
-On $40,000 of enrolled debt, the settlement company earns $6,000-$10,000 in fees -- regardless of how many debts they successfully settle. This fee structure means the company profits even if you fail.
+On $40,000 of enrolled debt, the settlement company earns $6,000-$10,000 in fees - regardless of how many debts they successfully settle. This fee structure means the company profits even if you fail.
 
 FTC enforcement history: The FTC has brought dozens of enforcement actions against settlement companies for deceptive practices. In 2010, the FTC banned upfront fees, requiring companies to settle at least one debt before charging. Despite this, complaints remain among the most common received by the FTC and CFPB.
 
@@ -192,9 +192,9 @@ Settlement is appropriate in narrow circumstances:
 
 You have one or two debts with collectors willing to negotiate, and you have cash for a lump-sum offer
 
-The debt is old (3+ years) and the collector bought it for pennies -- they will accept a low offer
+The debt is old (3+ years) and the collector bought it for pennies - they will accept a low offer
 
-You are judgment-proof AND the debt is near the statute of limitations -- settlement for 10-20% may be worth it to make the collector go away
+You are judgment-proof AND the debt is near the statute of limitations - settlement for 10-20% may be worth it to make the collector go away
 
 You genuinely cannot file bankruptcy (e.g., you received a Chapter 7 discharge within the past 8 years)
 
@@ -204,17 +204,17 @@ If you do settle, do it yourself. You do not need a settlement company. Our free
 
 When Bankruptcy Is the Clear Winner
 
-You have multiple debts totaling $10,000+ -- bankruptcy eliminates everything at once
+You have multiple debts totaling $10,000+ - bankruptcy eliminates everything at once
 
-You are being sued or garnished -- only the automatic stay stops legal action
+You are being sued or garnished - only the automatic stay stops legal action
 
-The tax bill on forgiven debt would be significant -- bankruptcy discharge is tax-free
+The tax bill on forgiven debt would be significant - bankruptcy discharge is tax-free
 
-You want certainty -- discharge is a court order, not a negotiation that can fail
+You want certainty - discharge is a court order, not a negotiation that can fail
 
-You need to rebuild credit quickly -- paradoxically, bankruptcy allows faster recovery
+You need to rebuild credit quickly - paradoxically, bankruptcy allows faster recovery
 
-Your debts include more than just credit cards -- medical bills, personal loans, utility arrears, deficiencies, judgments
+Your debts include more than just credit cards - medical bills, personal loans, utility arrears, deficiencies, judgments
 
 The Decision: Five Questions
 
@@ -242,23 +242,23 @@ Means Test Calculator
 
 Related Resources
 
-Free Settlement Letter Template -- If you do settle, do it yourself and save the fees
+Free Settlement Letter Template - If you do settle, do it yourself and save the fees
 
-Debt Consolidation vs Bankruptcy -- Another alternative compared
+Debt Consolidation vs Bankruptcy - Another alternative compared
 
-Chapter 7 vs Chapter 13 -- Which bankruptcy chapter is right for you
+Chapter 7 vs Chapter 13 - Which bankruptcy chapter is right for you
 
-automaticstay.org -- How the automatic stay protects you
+automaticstay.org - How the automatic stay protects you
 
-howmuchdoesbankruptcycost.com -- What bankruptcy actually costs
+howmuchdoesbankruptcycost.com - What bankruptcy actually costs
 
-523a.org -- Which debts survive bankruptcy
+523a.org - Which debts survive bankruptcy
 
 Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -363,13 +363,13 @@ Settlement's Credit Damage
 
 During a settlement program, your credit takes hits from multiple directions, continuously, for 2-4 years:
 
-Each account goes 30, 60, 90, 120, 150, 180 days delinquent -- each step is a new negative mark
+Each account goes 30, 60, 90, 120, 150, 180 days delinquent - each step is a new negative mark
 
 Accounts are charged off after 180 days (another negative mark)
 
 Settled accounts are reported as "settled for less than full balance" (stays on report 7 years)
 
-Each account has its own delinquency timeline -- the damage is spread over the entire program
+Each account has its own delinquency timeline - the damage is spread over the entire program
 
 New delinquencies continue being added as each account is "worked" by the settlement company
 
@@ -381,13 +381,13 @@ The bankruptcy filing appears on your credit report (Chapter 7: 10 years, Chapte
 
 All included debts show as "included in bankruptcy" with a $0 balance
 
-After discharge, no new negative items are added -- the damage is done and the recovery begins immediately
+After discharge, no new negative items are added - the damage is done and the recovery begins immediately
 
 The key difference: Settlement creates ongoing, rolling damage over 2-4 years. Bankruptcy creates a single event after which you can immediately start rebuilding. This is why many bankruptcy filers have better credit scores 2-3 years post-filing than people who spent the same 2-3 years in a settlement program.
 
 Recovery Timeline
 
-After settlement (if completed): Credit recovery begins only after the last account is settled -- typically 2-4 years into the program. The most recent delinquencies are the most damaging. Recovery to 700+ typically takes 3-5 years from the last settled account.
+After settlement (if completed): Credit recovery begins only after the last account is settled - typically 2-4 years into the program. The most recent delinquencies are the most damaging. Recovery to 700+ typically takes 3-5 years from the last settled account.
 
 After Chapter 7 discharge: Recovery begins immediately. With a secured card and on-time payments, most filers reach 650-680 within 12-18 months and 700+ within 2-3 years.
 
@@ -395,7 +395,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -482,7 +482,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## FAQ -- Debt Settlement vs Bankruptcy
+## FAQ - Debt Settlement vs Bankruptcy
 Source: https://debtsettlementvsbankruptcy.com/faq.html
 
 Skip to main content
@@ -490,7 +490,7 @@ Skip to main content
 debtsettlementvsbankruptcy.com☰
 HomeHow It WorksFeesTax BombCreditTimelineWhen It FailsScamsFAQ
 
-FAQ -- Debt Settlement vs Bankruptcy
+FAQ - Debt Settlement vs Bankruptcy
 
 The most common questions about choosing between settlement and bankruptcy.
 
@@ -508,7 +508,7 @@ Yes. Forgiven debt over $600 is reported on IRS Form 1099-C and treated as taxab
 
 How much do settlement companies charge?
 
-15-25% of total enrolled debt. On $50,000, that is $7,500-$12,500 in fees -- separate from the settlement payments and taxes. See settlement fees.
+15-25% of total enrolled debt. On $50,000, that is $7,500-$12,500 in fees - separate from the settlement payments and taxes. See settlement fees.
 
 Can creditors sue me during settlement?
 
@@ -516,7 +516,7 @@ Yes. There is no legal protection during settlement. Only bankruptcy provides th
 
 What if debt settlement does not work?
 
-You can still file bankruptcy. Many people try settlement first, spend 1-3 years and thousands in fees, then file Chapter 7 -- the option that would have solved it in 3-4 months.
+You can still file bankruptcy. Many people try settlement first, spend 1-3 years and thousands in fees, then file Chapter 7 - the option that would have solved it in 3-4 months.
 
 Does settlement hurt your credit more than bankruptcy?
 
@@ -524,7 +524,7 @@ Both damage credit, but settlement creates rolling damage over 2-4 years while b
 
 What percentage of settlement programs actually work?
 
-Industry data suggests that only 35-60% of enrolled debts are successfully settled. Many people drop out of settlement programs before completion because of lawsuits, wage garnishment, or the financial strain of making escrow payments while creditors continue to add interest and late fees. The FTC has taken enforcement actions against settlement companies for misleading success rate claims. Before enrolling, ask the company for their actual completion rate -- not just the percentage of debts they have settled for clients who stayed in the program.
+Industry data suggests that only 35-60% of enrolled debts are successfully settled. Many people drop out of settlement programs before completion because of lawsuits, wage garnishment, or the financial strain of making escrow payments while creditors continue to add interest and late fees. The FTC has taken enforcement actions against settlement companies for misleading success rate claims. Before enrolling, ask the company for their actual completion rate - not just the percentage of debts they have settled for clients who stayed in the program.
 
 Can I settle my debts myself without paying a company?
 
@@ -540,13 +540,13 @@ Settlement companies typically instruct you to stop paying your credit cards ent
 
 Is there a way to get debt relief without hurting my credit?
 
-No option that reduces or eliminates debt leaves your credit completely unaffected. A debt management plan (DMP) through a nonprofit credit counseling agency has the smallest credit impact, but you repay 100% of the principal over 3-5 years. Debt consolidation loans may not hurt your score if you keep payments current, but you still owe the full amount. Any option that reduces what you actually owe -- whether settlement or bankruptcy -- will affect your credit. The real question is how quickly you can rebuild afterward. Bankruptcy provides a clean starting point; settlement leaves a trail of delinquencies that takes longer to overcome.
+No option that reduces or eliminates debt leaves your credit completely unaffected. A debt management plan (DMP) through a nonprofit credit counseling agency has the smallest credit impact, but you repay 100% of the principal over 3-5 years. Debt consolidation loans may not hurt your score if you keep payments current, but you still owe the full amount. Any option that reduces what you actually owe - whether settlement or bankruptcy - will affect your credit. The real question is how quickly you can rebuild afterward. Bankruptcy provides a clean starting point; settlement leaves a trail of delinquencies that takes longer to overcome.
 
 Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -657,7 +657,7 @@ Stop paying creditors: The company instructs you to stop making payments to your
 
 Wait and save: For 12-36 months per account, your money accumulates while your accounts go delinquent, your credit score drops, and creditors call demanding payment.
 
-Negotiate: When enough money accumulates, the company contacts each creditor to negotiate a lump-sum payoff -- typically 40-60% of the balance.
+Negotiate: When enough money accumulates, the company contacts each creditor to negotiate a lump-sum payoff - typically 40-60% of the balance.
 
 Pay and repeat: Settled accounts are paid. The company takes their fee (15-25% of the original enrolled amount). Repeat for each creditor.
 
@@ -677,13 +677,13 @@ The dropout problem: Industry data shows that 50-70% of people who enroll in set
 
 Why Bankruptcy Is Different
 
-Bankruptcy provides what settlement cannot: legal protection. The automatic stay stops all collection the moment you file. No more calls. No lawsuits. No garnishments. And at the end, the discharge eliminates the debt entirely -- with no tax consequences. Settlement is a negotiation. Bankruptcy is a federal court order.
+Bankruptcy provides what settlement cannot: legal protection. The automatic stay stops all collection the moment you file. No more calls. No lawsuits. No garnishments. And at the end, the discharge eliminates the debt entirely - with no tax consequences. Settlement is a negotiation. Bankruptcy is a federal court order.
 
 Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -770,7 +770,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Debt Settlement vs Bankruptcy -- Which Is Better? Honest Comparison [2026]
+## Debt Settlement vs Bankruptcy - Which Is Better? Honest Comparison [2026]
 Source: https://debtsettlementvsbankruptcy.com/
 
 🌐 Esta pagina esta disponible en Espanol
@@ -780,7 +780,7 @@ Skip to main content
 debtsettlementvsbankruptcy.com☰
 HomeHow It WorksFeesTax BombCreditTimelineWhen It FailsScamsFAQ
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
 Debt Settlement vs Bankruptcy
 
@@ -801,7 +801,7 @@ Fees15-25% of enrolled debt$1,500-2,500 total
 
 Success rate35-60% of debts settled~95% receive discharge
 
-Tax consequencesYes -- 1099-C on forgiven debtNone
+Tax consequencesYes - 1099-C on forgiven debtNone
 
 Stops lawsuits?NoYes (automatic stay protection in bankruptcy)
 
@@ -839,7 +839,7 @@ How forgiven debt becomes taxable income (and why bankruptcy is exempt).
 
 Credit Score Impact
 
-Settlement vs bankruptcy -- which hurts more and for how long.
+Settlement vs bankruptcy - which hurts more and for how long.
 
 Timeline Comparison
 
@@ -869,7 +869,7 @@ Yes. Debt settlement companies instruct you to stop paying creditors, which caus
 
 How much does debt settlement cost?
 
-Debt settlement companies typically charge 15-25% of your total enrolled debt. On $30,000 of debt, that means $4,500 to $7,500 in fees -- and you still pay a portion of the original debt. By comparison, Chapter 7 bankruptcy filing fees are $338, and many attorneys charge $1,000-$2,000.
+Debt settlement companies typically charge 15-25% of your total enrolled debt. On $30,000 of debt, that means $4,500 to $7,500 in fees - and you still pay a portion of the original debt. By comparison, Chapter 7 bankruptcy filing fees are $338, and many attorneys charge $1,000-$2,000.
 
 Check Your Bankruptcy Eligibility
 
@@ -879,17 +879,17 @@ Discharge ScreenerAll Debt Relief Options
 
 Related Resources
 
-All Debt Relief Options -- Compare consolidation, settlement, counseling, and bankruptcy
+All Debt Relief Options - Compare consolidation, settlement, counseling, and bankruptcy
 
-Credit Card Forgiveness -- Options for getting credit card debt forgiven
+Credit Card Forgiveness - Options for getting credit card debt forgiven
 
-Credit Card Debt Bankruptcy -- Filing bankruptcy specifically on credit card debt
+Credit Card Debt Bankruptcy - Filing bankruptcy specifically on credit card debt
 
 Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -963,7 +963,7 @@ creditcardforgiveness.org →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -1089,7 +1089,7 @@ Part of the Open Bankruptcy Project
 
 Real information, no strings.
 
-1328f.com1328f.orgdebtrelieforbankruptcy.comcreditcardforgiveness.orgcreditcarddebtbankruptcy.org♥ SponsorGitHub
+1328f.com1328f.orgdebtrelieforbankruptcy.comcreditcardforgiveness.orgcreditcarddebtbankruptcy.org♥ SponsorGitHub Rule 9037 PII Scanner
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
 A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
@@ -1097,6 +1097,8 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 Privacy | Terms | Open Bankruptcy Project
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+Cited by the Federal Rules Committee (26-BK-3)
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -1154,7 +1156,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -1257,7 +1259,7 @@ Home › Settlement Fees
 
 The Fee Structure
 
-Settlement companies charge a percentage of the total debt you enroll -- not the amount they save you. The typical fee is 15-25% of enrolled debt.
+Settlement companies charge a percentage of the total debt you enroll - not the amount they save you. The typical fee is 15-25% of enrolled debt.
 
 Enrolled DebtFee at 15%Fee at 25%
 
@@ -1285,7 +1287,7 @@ Tax bill: Income tax on forgiven amounts over $600 (see the 1099-C tax bomb)
 
 Unsettled debts: Accounts that the company fails to settle still have the full balance plus years of fees
 
-Example: $50,000 enrolled. Fees: $10,000. Interest accrued: $8,000. Tax on $15,000 forgiven: $3,750 (at 25% bracket). Unsettled remaining debt: $12,000. Total cost: $33,750 -- and you still owe $12,000.
+Example: $50,000 enrolled. Fees: $10,000. Interest accrued: $8,000. Tax on $15,000 forgiven: $3,750 (at 25% bracket). Unsettled remaining debt: $12,000. Total cost: $33,750 - and you still owe $12,000.
 
 Comparison: Settlement Fees vs Bankruptcy Costs
 
@@ -1297,7 +1299,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -1404,7 +1406,7 @@ When a creditor settles your $10,000 debt for $4,000, the $6,000 difference is c
 
 Example: You settle $50,000 in credit card debt for $25,000. The $25,000 in forgiven debt is added to your taxable income. At a 22% tax bracket, you owe $5,500 in additional federal income tax. Plus state taxes in most states.
 
-This is the cost that settlement companies rarely mention during the sales call. They calculate your "savings" as the difference between the original balance and the settlement amount -- without factoring in the tax bill.
+This is the cost that settlement companies rarely mention during the sales call. They calculate your "savings" as the difference between the original balance and the settlement amount - without factoring in the tax bill.
 
 Why Bankruptcy Discharge Is Not Taxable
 
@@ -1424,7 +1426,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -1567,13 +1569,13 @@ Unlike settlement, the court enforces creditor cooperation
 
 Time Is Money
 
-The difference between 3-4 months and 2-4 years is not just time -- it is money. Every month you spend in a settlement program is a month of accruing interest, potential lawsuits, and stress. In Chapter 7, those 2-4 years are spent rebuilding credit instead of waiting for settlements.
+The difference between 3-4 months and 2-4 years is not just time - it is money. Every month you spend in a settlement program is a month of accruing interest, potential lawsuits, and stress. In Chapter 7, those 2-4 years are spent rebuilding credit instead of waiting for settlements.
 
 Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -1660,7 +1662,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## When Settlement Fails -- And Bankruptcy Saves You
+## When Settlement Fails - And Bankruptcy Saves You
 Source: https://debtsettlementvsbankruptcy.com/when-settlement-fails.html
 
 Skip to main content
@@ -1678,7 +1680,7 @@ Why Settlement Programs Fail
 
 Cannot sustain payments: The monthly savings deposit is too much on top of rent, utilities, and living expenses
 
-Creditor lawsuit: A creditor sues, gets a judgment, and garnishes wages -- the settlement company cannot stop this
+Creditor lawsuit: A creditor sues, gets a judgment, and garnishes wages - the settlement company cannot stop this
 
 Creditor refuses to settle: Some creditors will not negotiate, especially for recent debt or small balances
 
@@ -1710,13 +1712,13 @@ Stop any active lawsuits or garnishments through the automatic stay
 
 Eliminate judgment liens to the extent they impair exemptions
 
-The lesson: Many bankruptcy attorneys report that a significant portion of their clients tried settlement first. They spent 1-3 years and thousands in fees before filing bankruptcy -- the option that would have solved the problem in 3-4 months from the start.
+The lesson: Many bankruptcy attorneys report that a significant portion of their clients tried settlement first. They spent 1-3 years and thousands in fees before filing bankruptcy - the option that would have solved the problem in 3-4 months from the start.
 
 Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -1800,3 +1802,75 @@ Privacy | Terms | Open Bankruptcy Project
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Privacy Policy - debtsettlementvsbankruptcy.com
+Source: https://debtsettlementvsbankruptcy.com/privacy.html
+
+debtsettlementvsbankruptcy.com
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
